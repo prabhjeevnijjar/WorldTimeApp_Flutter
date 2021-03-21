@@ -1,2 +1,3 @@
 # WorldTimeApp_Flutter
- App shows any time zone in the world 
+ App shows selected time zone
+ Backgond changes with time of the day
